@@ -452,3 +452,8 @@ main{
     margin-top: auto;
     margin-bottom: 25px;
 } 
+
+.content hr{
+    color: rgba(114, 110, 110, 0.13);
+    border-width: 0.5px;
+}
